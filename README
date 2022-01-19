@@ -1,0 +1,4 @@
+Investigation of Wine Quality Sample Data using Multiclass Classification Technique
+* Developed Multiclass Classification Models with Logistic Regression, SVM, k-NN and oversampling using Scikit-learn API
+* Analyzed UCI ML Repository Data - “White Wine Quality” using above techniques.
+* Studied Confusion matrix, Precision-recall curve and Receiver operating characteristic (ROC) curve from the analysis
